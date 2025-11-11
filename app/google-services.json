@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1025690965029",
+    "project_id": "teste-ca7e5",
+    "storage_bucket": "teste-ca7e5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1025690965029:android:7cc756ed1d184b8f1b9bcc",
+        "android_client_info": {
+          "package_name": "br.edu.utfpr.cc.setac.bp.talk"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGHSjgaRkUUFzqfvH930miWNFxFvZv1Sc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
